@@ -1,0 +1,20 @@
+{
+  "name": "Restaurant-Page",
+  "version": "1.0.0",
+  "description": "Restaurant Page Project For TOP using Webpack, Npm, and Modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasianE/Restaurant-Page.git"
+  },
+  "author": "Jun",
+  "license": "ISC",
+  "homepage": "https://github.com/JasianE/Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
